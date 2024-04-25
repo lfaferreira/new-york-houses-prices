@@ -1,7 +1,9 @@
 # new-york-houses-prices
 O projeto atual tem como objetivo a resolução do case de pré-seleção para a posição de ciência de dados na Indicium, referente ao ano de 2024. Ele consiste em um problema de previsão relacionado aos preços de aluguel de casas em Nova York. Uma empresa expressou interesse em analisar as projeções futuras dos preços de aluguel de casas e contratou nossa consultoria para fornecer suporte nesse aspecto.
 
-![vist Card](https://cdn.discordapp.com/attachments/1204200810813329468/1204200844510371880/47bce2e842d48c6469583cea1bcf0002.jpg?ex=65d3de6e&is=65c1696e&hm=d4e9765aa9f4796fccdacd35f56230ce5e03dc688eae2a0c208b43a4809c14d1&)
+<div style="text-align:center;">
+    <img src="img/readme_cover.jpg" style="display: inline-block;">
+</div>
 
 
 ## Índice
@@ -127,10 +129,9 @@ Escopo das ferramentas usadas no projeto:
 ### 3.4. Processo CRISP-DM
 A metodologia [CRIPS-DM](https://www.ibm.com/docs/en/spss-modeler/saas?topic=dm-crisp-help-overview) foi aplicada para traçar meu plano de ação. Este é o processo, passo a passo:
 
-<p align="center">
- <img src="https://cdn.discordapp.com/attachments/1181695164633329824/1181695982753304697/CRISP-DM_Flowchart_ElderResearch_Circular-1.png?ex=6581ff25&is=656f8a25&hm=978e079ffa29bbb54af68d891c7318a2bb1f9a30f3ac0c144434b96df3e2a367&"  style="zoom:65%"/>
-</p>
-
+<div style="text-align:center;">
+    <img src="img/readme_crispdm.png" style="display: inline-block; width: 65%; height: auto;">
+</div>
 
 **Passo 1. Entendimento do Negócio:**
 - Uma empresa busca um modelo preditivo para ajudar na tomada de decisão no mercado de alugueis de casas.
@@ -268,9 +269,9 @@ A tabela a seguir ilustra as previsões das 5 lojas mais bem classificadas de ac
 
 O gráfico a seguir ilustra a comparação das vendas reais com a previsão do modelo: 
 
- <p align="center">
- <img src="https://cdn.discordapp.com/attachments/1204245004948865106/1204245034841538632/image.png?ex=65d40796&is=65c19296&hm=c2826a4612b0bb2390bd0b0293f482fc64a4e3cf4c56b7440873476ae270116f&"  style="zoom:65%"/>
-</p>
+<div style="text-align:left;">
+    <img src="img/readme_price_predictions.png" style="display: inline-block;">
+</div>
 
 ### Total do alugel na rede
 
